@@ -1,0 +1,3 @@
+new Array(...
+          document.querySelectorAll("#overlays > ytd-thumbnail-overlay-time-status-renderer > yt-icon > svg").values())
+    .forEach( (el) => (el.parentElement?.parentElement?.parentElement?.parentElement?.parentElement?.parentElement?.remove()))
